@@ -108,7 +108,7 @@ data:
               "exemplar": true,
               "expr": "up{}",
               "interval": "",
-              "legendFormat": "{{"{{"}}pod{{"}}"}}",
+              "legendFormat": "{{pod}}",
               "refId": "A"
             }
           ],
